@@ -1,7 +1,7 @@
 # burgertime
 1. mysql and 2. sequalize
 
-Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
+Burgertime is a restaurant app that lets users input the names of burgers they'd like to eat.
 
 Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured.
 
@@ -10,8 +10,8 @@ Each burger in the waiting area also has a Devour it! button. When the user clic
 The app will store every burger in a database, whether devoured or not.
 
 ## Dependencies
-mysql
-node
-express
-body-parser
-sequelize
+* mysql
+* node
+* express
+* body-parser
+* sequelize
